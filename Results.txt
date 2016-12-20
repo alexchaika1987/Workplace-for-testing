@@ -17,3 +17,12 @@
 •	Выполнение выделенного задания - на основе набора требований
 1.	На данный момент выполнено чек лист для смоук-тест
 2.	Составление тест кейсов на основе смоук-теста
+
+20.12.2016
+
+Git Bush. 
+1. Add new information in file from local repository to origin repository in github
+2. Add movie with result
+Git Gui
+1.Add new information in file from local repository to origin repository in github
+2. Add movie with result

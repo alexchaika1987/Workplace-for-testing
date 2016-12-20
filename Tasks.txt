@@ -1,4 +1,4 @@
-# Workplace-for-testing
+﻿# Workplace-for-testing
 Work process: Tasks, results, questions
             
 Задачи по githube:
@@ -47,3 +47,5 @@ git config --global core.safecrlf true
 •	Расписать идеи из чек-листа для смоук-тест в полноценные тесты
 •	Чек-лист для теста критического пути
 •	Расписать идеи из чек-листа для теста критического пути в полноценные тесты
+
+Изменения при git bushe дожны быть в репозитории

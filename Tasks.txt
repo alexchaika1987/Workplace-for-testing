@@ -49,5 +49,5 @@ git config --global core.safecrlf true
 •	Расписать идеи из чек-листа для теста критического пути в полноценные тесты
 
 Changes at git bushe should be in the repository
-Changes at git gui should be in the repository
+
 

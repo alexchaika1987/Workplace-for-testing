@@ -50,4 +50,4 @@ git config --global core.safecrlf true
 
 Changes at git bushe should be in the repository
 
-
+Changes at git gui should be in the repository

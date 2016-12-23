@@ -54,5 +54,3 @@ Git Bush & Git Gui
 1. Install jing
 2. Record movie with modified files at git bushe that should be in the repository
 3. Record movie with modified files at git gui that should be in the repository
-
-Изменение репозитория с локальной сети(компьютер) в оригинальный на сервере
